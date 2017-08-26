@@ -20,7 +20,7 @@ public class Test {
 
 		System.out.println("GITHUB 4 !!!");
 
-		System.out.println("From IntelliJ");
+		System.out.println("From IntelliJ 2");
 	}
 
 }
