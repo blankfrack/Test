@@ -12,6 +12,7 @@ public class Test {
 	public static void main(String[] args) {
 		// Doing nothing
 		System.out.println("From IntelliJ Clean");
+
 		displayMessage();
 	}
 
