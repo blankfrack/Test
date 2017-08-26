@@ -18,7 +18,7 @@ public class Test {
 		System.out.println("MASTER");
 		System.out.println("From NetBeans");
 
-		System.out.println("GITHUB2 !!!");
+		System.out.println("GITHUB3 !!!");
 
 		System.out.println("From IntelliJ");
 	}
