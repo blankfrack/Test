@@ -7,12 +7,15 @@ package com.blankfrack.test;
 public class Test {
 
 	/**
-	 * @param args Program arguments
+	 * @param args
 	 */
 	public static void main(String[] args) {
 		System.out.println("From IntelliJ Clean");
+		displayMessagee();
+	}
 
-		System.out.println("Add old stuff again");
+	public static void displayMessagee(){
+		System.out.println("DisplayMessage");
 	}
 
 }
