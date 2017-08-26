@@ -14,6 +14,7 @@ public class Test {
 		System.out.println("From IntelliJ Clean");
 		displayMessage();
 		displayAnotherMessage("Test message GITHUB");
+		displayEclipseMessage();
 	}
 
 	/**
@@ -27,4 +28,8 @@ public class Test {
 		System.out.println(pMsg);
 	}
 
+	public static void displayEclipseMessage() {
+		System.out.println("Eclipse");
+	}
+	
 }
