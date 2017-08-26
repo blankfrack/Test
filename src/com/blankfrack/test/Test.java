@@ -12,11 +12,14 @@ public class Test {
 	public static void main(String[] args) {
 		// Doing nothing
 		System.out.println("From IntelliJ Clean");
-		displayMessagee();
+		displayMessage();
 	}
 
-	public static void displayMessagee(){
-		System.out.println("DisplayMessage");
+	/**
+	 * 
+	 */
+	public static void displayMessage(){
+		System.out.println("DisplayMessage");		
 	}
 
 }
