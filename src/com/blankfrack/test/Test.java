@@ -10,6 +10,7 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Doing nothing
 		System.out.println("From IntelliJ Clean");
 		displayMessagee();
 	}
