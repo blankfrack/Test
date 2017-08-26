@@ -6,21 +6,11 @@ package com.blankfrack.test;
  */
 public class Test {
 
-
 	/**
-	 * @param args
+	 * @param args Program arguments
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World !!!!");
-		
-		System.out.println("Should be in the branch");
-
-		System.out.println("MASTER MASTER");
-		System.out.println("From NetBeans");
-
-		System.out.println("GITHUB 5 !!!");
-
-		System.out.println("From IntelliJ 3 Branch");
+		System.out.println("From IntelliJ Clean");
 	}
 
 }
