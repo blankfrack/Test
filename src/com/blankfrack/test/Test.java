@@ -12,12 +12,11 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("Hello World !!!");
 		
-		
-		
-		
-		
-		
+		System.out.println("Test from Eclipse 1");
+	
 		System.out.println("Test from Eclipse 2");
+		
+		System.out.println("Test from Eclipse 3");
 	}
 
 }
