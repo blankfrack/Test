@@ -13,7 +13,7 @@ public class Test {
 		System.out.println("Hello World !!!");
 		
 		
-		System.out.println("Test from Eclipse");
+		System.out.println("Test from Eclipse 2");
 	}
 
 }
