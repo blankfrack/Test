@@ -18,4 +18,5 @@ hs_err_pid*
 *.idea
 *.iml
 
+# Don't track any log files
 *.log
