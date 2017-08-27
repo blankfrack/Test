@@ -19,6 +19,7 @@ public class Test {
 		System.out.println("Test from Eclipse 3");
 		
 		System.out.println("Test from Eclipse MidSeptember Branch");
+		System.out.println("Test from Eclipse MidSeptember Branch #2");
 	}
 
 }
