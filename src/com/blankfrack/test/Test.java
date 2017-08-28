@@ -20,6 +20,9 @@ public class Test {
 		
 		
 		System.out.println(wFreeClient.getName() + " / " + wPayingClient.getName());
+
+		
+		System.out.println("Program is shutting down");
 	}
 
 }
