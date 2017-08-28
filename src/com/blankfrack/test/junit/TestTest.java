@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.blankfrack.test.junit;
 
 import org.junit.Test;
