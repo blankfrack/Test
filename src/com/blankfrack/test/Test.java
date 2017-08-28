@@ -16,11 +16,9 @@ public class Test {
 		wFreeClient.setName("Bobby inc.");
 		
 		Client wPayingClient = new PayingClient();
-		wPayingClient.setName("George");
-		
+		wPayingClient.setName("George");		
 		
 		System.out.println(wFreeClient.getName() + " / " + wPayingClient.getName());
-
 		
 		System.out.println("Program is shutting down");
 	}
